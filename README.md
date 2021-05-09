@@ -1,1 +1,1 @@
-# Dairy-App
+# Diary-App
